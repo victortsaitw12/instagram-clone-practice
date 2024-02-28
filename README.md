@@ -1,5 +1,9 @@
-# React + Vite
+# This is instagram clone practice 
 
+### REF
+> https://www.youtube.com/watch?v=RMScMwY2B6Q&t=6976s
+
+### React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
